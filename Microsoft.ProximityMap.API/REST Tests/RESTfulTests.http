@@ -1,0 +1,4 @@
+# For more info on HTTP files go to https://aka.ms/vs/httpfile
+//GET 
+POST http://localhost:7078/api/ConvertAddressToCoordinates
+{ "address": "1 Microsoft Way, Redmond, WA 98052" }
